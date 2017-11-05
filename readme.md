@@ -2,8 +2,11 @@
 
 Dependencies:
 EpPathFinding - by juhgiyo: https://github.com/juhgiyo/EpPathFinding.cs 
+
     using C5 - by sestoft: https://github.com/sestoft/C5 
+
 ImageProcessor - by JimBobSquarePants: https://github.com/JimBobSquarePants/ImageProcessor 
+
 
 This project aims to find shortest paths using a simple PNG file as input. 
 
