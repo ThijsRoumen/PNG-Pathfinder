@@ -1,0 +1,10 @@
+﻿using System;
+namespace imagefolding
+{
+	public class Form1
+	{
+		public Form1()
+		{
+		}
+	}
+}
