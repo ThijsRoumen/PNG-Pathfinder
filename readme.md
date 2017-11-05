@@ -1,9 +1,9 @@
 ﻿PNG Pathfinding in C#
 
 Dependencies:
-EpPathFinding - by juhgiyo: https://github.com/juhgiyo/EpPathFinding.cs 
+EpPathFinding - by juhgiyo: https://github.com/juhgiyo/EpPathFinding.cs * 
 
-    using C5 - by sestoft: https://github.com/sestoft/C5 
+*using C5 - by sestoft: https://github.com/sestoft/C5 
 
 ImageProcessor - by JimBobSquarePants: https://github.com/JimBobSquarePants/ImageProcessor 
 
